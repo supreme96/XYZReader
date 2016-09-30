@@ -27,6 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+400dp
         <activity
             android:name="com.example.xyzreader.ui.ArticleDetailActivity"
             android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity" >

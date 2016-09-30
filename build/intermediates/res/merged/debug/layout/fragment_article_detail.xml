@@ -16,15 +16,14 @@
             <FrameLayout
                 android:id="@+id/photo_container"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="@dimen/detail_card_top_margin"
                 android:background="@color/primary">
                 <!--suppress AndroidLintContentDescription -->
                 <ImageView
                     android:id="@+id/photo"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:scaleType="fitXY"
-                     />
+                    android:scaleType="fitXY"/>
 
                 <!--<View
                     android:layout_width="match_parent"
