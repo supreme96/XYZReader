@@ -25,11 +25,6 @@
                     android:layout_height="match_parent"
                     android:scaleType="fitXY"/>
 
-                <!--<View
-                    android:layout_width="match_parent"
-                    android:layout_height="112dp"
-                    android:background="@drawable/photo_background_protection" />-->
-
             </FrameLayout>
 
             <com.example.xyzreader.ui.MaxWidthLinearLayout

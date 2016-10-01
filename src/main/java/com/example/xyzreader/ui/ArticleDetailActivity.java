@@ -51,15 +51,6 @@ public class ArticleDetailActivity extends ActionBarActivity
         }
         setContentView(R.layout.activity_article_detail);
 
-        //sahil from right transistion.
-        Slide slide = new Slide(Gravity.RIGHT);
-        slide.addTarget(R.id.pager);
-        slide.setInterpolator(AnimationUtils.loadInterpolator(this, android.R.interpolator.fast_out_slow_in));
-        slide.setDuration(500);
-        getWindow().setEnterTransition(slide);
-
-        //end sahil code
-
         getLoaderManager().initLoader(0, null, this);
 
         mPagerAdapter = new MyPagerAdapter(getFragmentManager());
