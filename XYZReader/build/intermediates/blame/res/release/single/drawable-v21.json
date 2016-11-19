@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android\\Udacity\\XYZReader\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\Android\\Udacity\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\Udacity\\XYZReader\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\Android\\Udacity\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\Udacity\\XYZReader\\build\\intermediates\\res\\merged\\release\\drawable-v21\\white_selectable_item_background_circle.xml",
+        "source": "F:\\Android\\Udacity\\XYZReader\\src\\main\\res\\drawable-v21\\white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "F:\\Android\\Udacity\\XYZReader\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "F:\\Android\\Udacity\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]
